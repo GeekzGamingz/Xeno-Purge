@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://yuhrgiwm4rme"
+path="res://.godot/imported/Geekzanonymous - War 40k Theme.ogg-94ad4e4f3c2ade857a67c0b4c09cd73b.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/07_SFX/_Music/Geekzanonymous - War 40k Theme.ogg"
+dest_files=["res://.godot/imported/Geekzanonymous - War 40k Theme.ogg-94ad4e4f3c2ade857a67c0b4c09cd73b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
