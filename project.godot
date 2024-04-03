@@ -11,8 +11,13 @@ config_version=5
 [application]
 
 config/name="Xeno Purge"
+run/main_scene="res://source/01_Levels/00_World/World.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/mode="viewport"
 
 [rendering]
 
